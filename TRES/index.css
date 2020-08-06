@@ -1,0 +1,93 @@
+body {
+  font-size: 16px;
+  color:  darkblue;
+  background-color: #7b5fe0;
+  font-family: 'Oxygen', sans-serif;
+}
+
+#header-nav {
+  background-color: #46adbb;
+  border-radius: 0;
+  border: 0;
+
+}
+
+.navbar-brand a:hover, .navbar-brand a:focus {
+  text-decoration: none;
+
+}
+
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+  border: 1px solid #61122f;
+}
+.navbar-header button.navbar-toggle {
+  clear: both;
+  margin-top: -30px;
+}
+
+.content-box {
+  margin: 20px;
+  width: auto;
+  height: auto;
+  color: blue;
+  background-color: rgba(150, 139, 139, 0.2);
+  font-family: "arial", cursive, sans-serif;
+  padding: 20px;
+}
+
+h1{
+    text-align: center;
+    margin: 20px;
+}
+
+.navbar-brand h2{
+  text-align: center;
+  color: #200874;
+  margin: 10px;
+}
+section{
+    text-align: center;
+    margin: 20px;
+}
+
+.title {
+    position: absolute;
+    top: 0;
+    right:0;
+    width: 100px;
+    text-align: center;
+    border: 1px solid black;
+}
+article{
+
+    padding: 25px;
+
+}
+
+.section {  
+    background-color: gray;
+    border: 1px solid black;
+    position: relative;
+    width: 90%;
+    margin-right: auto;
+    margin-left: auto;
+
+}
+
+#chicken{
+    background-color: #F5B7B1;
+}
+
+#beef{
+    background-color: #CD6155;
+    color: white;
+}
+
+#sushi{
+    background-color: #F7DC6F ; 
+}
+
+.row {
+  width: 100%;
+}
+
